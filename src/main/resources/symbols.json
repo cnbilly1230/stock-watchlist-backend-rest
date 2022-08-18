@@ -1,0 +1,349 @@
+{
+  "symbols": [
+    {
+      "ticker": "00001.HK",
+      "name": "CKH HOLDINGS",
+      "basePrice": "51.95"
+    },
+    {
+      "ticker": "00002.HK",
+      "name": "CLP HOLDINGS",
+      "basePrice": "65.60"
+    },
+    {
+      "ticker": "00003.HK",
+      "name": "HK & CHINA GAS",
+      "basePrice": "8.19"
+    },
+    {
+      "ticker": "00005.HK",
+      "name": "HSBC HOLDINGS",
+      "basePrice": "48.70"
+    },
+    {
+      "ticker": "00006.HK",
+      "name": "POWER ASSETS",
+      "basePrice": "51.25"
+    },
+    {
+      "ticker": "00011.HK",
+      "name": "HANG SENG BANK",
+      "basePrice": "128.90"
+    },
+    {
+      "ticker": "00012.HK",
+      "name": "HENDERSON LAND",
+      "basePrice": "27.05"
+    },
+    {
+      "ticker": "00016.HK",
+      "name": "SHK PPT",
+      "basePrice": "91.00"
+    },
+    {
+      "ticker": "00017.HK",
+      "name": "NEW WORLD DEV",
+      "basePrice": "26.15"
+    },
+    {
+      "ticker": "00027.HK",
+      "name": "GALAXY ENT",
+      "basePrice": "44.80"
+    },
+    {
+      "ticker": "00066.HK",
+      "name": "MTR CORPORATION",
+      "basePrice": "41.00"
+    },
+    {
+      "ticker": "00101.HK",
+      "name": "HANG LUNG PPT",
+      "basePrice": "14.18"
+    },
+    {
+      "ticker": "00175.HK",
+      "name": "GEELY AUTO",
+      "basePrice": "16.48"
+    },
+    {
+      "ticker": "00241.HK",
+      "name": "ALI HEALTH",
+      "basePrice": "5.14"
+    },
+    {
+      "ticker": "00267.HK",
+      "name": "CITIC",
+      "basePrice": "8.20"
+    },
+    {
+      "ticker": "00288.HK",
+      "name": "WH GROUP",
+      "basePrice": "5.95"
+    },
+    {
+      "ticker": "00291.HK",
+      "name": "CHINA RES BEER",
+      "basePrice": "53.65"
+    },
+    {
+      "ticker": "00316.HK",
+      "name": "OOIL",
+      "basePrice": "266.80"
+    },
+    {
+      "ticker": "00386.HK",
+      "name": "SINOPEC CORP",
+      "basePrice": "3.56"
+    },
+    {
+      "ticker": "00388.HK",
+      "name": "HKEX",
+      "basePrice": "351.20"
+    },
+    {
+      "ticker": "00669.HK",
+      "name": "TECHTRONIC IND",
+      "basePrice": "90.55"
+    },
+    {
+      "ticker": "00688.HK",
+      "name": "CHINA OVERSEAS",
+      "basePrice": "21.50"
+    },
+    {
+      "ticker": "00700.HK",
+      "name": "TENCENT",
+      "basePrice": "333.80"
+    },
+    {
+      "ticker": "00762.HK",
+      "name": "CHINA UNICOM",
+      "basePrice": "3.72"
+    },
+    {
+      "ticker": "00823.HK",
+      "name": "LINK REIT",
+      "basePrice": "63.75"
+    },
+    {
+      "ticker": "00857.HK",
+      "name": "PETROCHINA",
+      "basePrice": "3.60"
+    },
+    {
+      "ticker": "00868.HK",
+      "name": "XINYI GLASS",
+      "basePrice": "15.90"
+    },
+    {
+      "ticker": "00881.HK",
+      "name": "ZHONGSHENG HLDG",
+      "basePrice": "48.60"
+    },
+    {
+      "ticker": "00883.HK",
+      "name": "CNOOC",
+      "basePrice": "9.86"
+    },
+    {
+      "ticker": "00939.HK",
+      "name": "CCB",
+      "basePrice": "4.98"
+    },
+    {
+      "ticker": "00941.HK",
+      "name": "CHINA MOBILE",
+      "basePrice": "49.95"
+    },
+    {
+      "ticker": "00960.HK",
+      "name": "LONGFOR GROUP",
+      "basePrice": "26.55"
+    },
+    {
+      "ticker": "00968.HK",
+      "name": "XINYI SOLAR",
+      "basePrice": "12.44"
+    },
+    {
+      "ticker": "00981.HK",
+      "name": "SMIC",
+      "basePrice": "16.94"
+    },
+    {
+      "ticker": "00992.HK",
+      "name": "LENOVO GROUP",
+      "basePrice": "7.35"
+    },
+    {
+      "ticker": "01038.HK",
+      "name": "CKI HOLDINGS",
+      "basePrice": "48.40"
+    },
+    {
+      "ticker": "01044.HK",
+      "name": "HENGAN INT'L",
+      "basePrice": "38.00"
+    },
+    {
+      "ticker": "01093.HK",
+      "name": "CSPC PHARMA",
+      "basePrice": "8.39"
+    },
+    {
+      "ticker": "01109.HK",
+      "name": "CHINA RES LAND",
+      "basePrice": "32.25"
+    },
+    {
+      "ticker": "01113.HK",
+      "name": "CK ASSET",
+      "basePrice": "55.25"
+    },
+    {
+      "ticker": "01177.HK",
+      "name": "SINO BIOPHARM",
+      "basePrice": "4.70"
+    },
+    {
+      "ticker": "01211.HK",
+      "name": "BYD COMPANY",
+      "basePrice": "284.20"
+    },
+    {
+      "ticker": "01299.HK",
+      "name": "AIA",
+      "basePrice": "79.15"
+    },
+    {
+      "ticker": "01378.HK",
+      "name": "CHINAHONGQIAO",
+      "basePrice": "7.84"
+    },
+    {
+      "ticker": "01398.HK",
+      "name": "ICBC",
+      "basePrice": "4.08"
+    },
+    {
+      "ticker": "01810.HK",
+      "name": "XIAOMI-W",
+      "basePrice": "13.00"
+    },
+    {
+      "ticker": "01876.HK",
+      "name": "BUD APAC",
+      "basePrice": "22.80"
+    },
+    {
+      "ticker": "01928.HK",
+      "name": "SANDS CHINA LTD",
+      "basePrice": "17.84"
+    },
+    {
+      "ticker": "01997.HK",
+      "name": "WHARF REIC",
+      "basePrice": "33.70"
+    },
+    {
+      "ticker": "02007.HK",
+      "name": "COUNTRY GARDEN",
+      "basePrice": "3.14"
+    },
+    {
+      "ticker": "02020.HK",
+      "name": "ANTA SPORTS",
+      "basePrice": "91.20"
+    },
+    {
+      "ticker": "02269.HK",
+      "name": "WUXI BIO",
+      "basePrice": "81.85"
+    },
+    {
+      "ticker": "02313.HK",
+      "name": "SHENZHOU INTL",
+      "basePrice": "84.35"
+    },
+    {
+      "ticker": "02318.HK",
+      "name": "PING AN",
+      "basePrice": "47.35"
+    },
+    {
+      "ticker": "02319.HK",
+      "name": "MENGNIU DAIRY",
+      "basePrice": "37.60"
+    },
+    {
+      "ticker": "02331.HK",
+      "name": "LI NING",
+      "basePrice": "66.40"
+    },
+    {
+      "ticker": "02382.HK",
+      "name": "SUNNY OPTICAL",
+      "basePrice": "111.40"
+    },
+    {
+      "ticker": "02388.HK",
+      "name": "BOC HONG KONG",
+      "basePrice": "28.35"
+    },
+    {
+      "ticker": "02628.HK",
+      "name": "CHINA LIFE",
+      "basePrice": "11.76"
+    },
+    {
+      "ticker": "02688.HK",
+      "name": "ENN ENERGY",
+      "basePrice": "124.00"
+    },
+    {
+      "ticker": "03690.HK",
+      "name": "MEITUAN-W",
+      "basePrice": "193.10"
+    },
+    {
+      "ticker": "03968.HK",
+      "name": "CM BANK",
+      "basePrice": "43.00"
+    },
+    {
+      "ticker": "03988.HK",
+      "name": "BANK OF CHINA",
+      "basePrice": "2.77"
+    },
+    {
+      "ticker": "06098.HK",
+      "name": "CG SERVICES",
+      "basePrice": "20.20"
+    },
+    {
+      "ticker": "06862.HK",
+      "name": "HAIDILAO",
+      "basePrice": "15.86"
+    },
+    {
+      "ticker": "09618.HK",
+      "name": "JD-SW",
+      "basePrice": "247.00"
+    },
+    {
+      "ticker": "09633.HK",
+      "name": "NONGFU SPRING",
+      "basePrice": "45.80"
+    },
+    {
+      "ticker": "09988.HK",
+      "name": "BABA-SW",
+      "basePrice": "102.20"
+    },
+    {
+      "ticker": "09999.HK",
+      "name": "NTES-S",
+      "basePrice": "151.40"
+    }
+  ]
+}
