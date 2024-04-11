@@ -49,8 +49,8 @@ public class DataLoader {
             return;
         }
 
-        String uid1 = "Fcr9TLp0XrhuLNOqcscFAceS4Rh2";
-        String uid2 = "PvHL6R8MlseTCEGX46CqhrtK2f62";
+        String uid1 = "Ye99dEZCESR8hg4ITNvtvhqnUp73";
+        String uid2 = "f7QNbDZ7U8PQKN6lYMFQ14tCXWF3";
 
         WatchList user1WatchList1 = WatchList.builder()
                 .uid(uid1)
